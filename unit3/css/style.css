@@ -33,9 +33,9 @@ a {
 	height: 10px;
 }
 figure { 
-	height:50px;
+	height:75px;
 	margin:0;
 }
 .logo {background: url('../assets/logo-taasky.png') no-repeat;}
 
-.button_apple {background: url('../assets/btn_store.png') no-repeat;}
+.apple_button {background: url('../assets/btn_store.png') no-repeat;}
