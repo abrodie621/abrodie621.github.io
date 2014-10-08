@@ -36,8 +36,6 @@ figure {
 	height:50px;
 	margin:0;
 }
-.logo {
-	background: url('../assets/logo-taasky.png') no-repeat;
+.logo {background: url('../assets/logo-taasky.png') no-repeat;}
 
-
-}
+.button_apple {background: url('../assets/btn_store.png') no-repeat;}
