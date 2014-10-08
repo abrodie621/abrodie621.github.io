@@ -1,5 +1,5 @@
 body {
-	background-image: url('/assets/background.jpg');
+	background-image: url('../assets/background.jpg');
 	background-repeat: no-repeat;
 	/*background-color: #404657; */
 	background-size: cover; 
@@ -24,7 +24,7 @@ a {
 }
 
 .stripe {
-	background: url('/assets/stripes.png') repeat-x;
+	background: url('../assets/stripes.png') repeat-x;
 	position: absolute;
 	padding: 0 0 0 0;
 	top: 0px;
@@ -34,6 +34,6 @@ a {
 }
 
 .logo {
-	background: url('/assets/logo-taasky.png');
+	background: url('../assets/logo-taasky.png');
 
 }
