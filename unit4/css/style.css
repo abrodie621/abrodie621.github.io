@@ -41,6 +41,7 @@ hr {
 
 .brodiecreativelogo {
     background-image: url('../assets/BrodieCreativeLogoweb.png');
+    margin:0 auto 0 auto;
     width: 90px;
     height: 62px;
 }
