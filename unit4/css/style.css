@@ -1,5 +1,5 @@
 body {
-	background-image: url('../assets/brodiecreativeoffice.jpg');
+	background-image: url('../assets/BrodieCreativeOffice.jpg');
 	background-repeat: no-repeat;
 	background-color: #404657;
 	background-size: cover; 
@@ -34,11 +34,13 @@ hr {
 	font-family: 'Lora', serif;
 	font-weight:400;
 	font-size: 17.5px;
+	margin:0 auto 0 auto;
 	text-align: center;
+	width:540px;
 }
 
 .brodiecreativelogo {
-    background-image: url('../assets/brodiecreativelogoweb.png');
+    background-image: url('../assets/BrodieCreativeLogoweb.png');
     width: 90px;
     height: 62px;
 }
