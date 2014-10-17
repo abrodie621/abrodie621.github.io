@@ -1,0 +1,46 @@
+body {
+	background-image: url('../assets/brodiecreativeoffice.jpg');
+	background-repeat: no-repeat;
+	background-color: #404657;
+	background-size: cover; 
+	line-height: 29px;
+	vertical-align: middle;
+}
+
+h1{
+	color: #f20951;
+	font-family: 'Oswald', sans-serif;	
+	font-size: 28px;
+	text-align: center;
+	letter-spacing: -100;
+}
+
+h2{
+	text-align: center;
+	color: #3c3c3c;
+	font-family: 'Lora', serif;
+	font-weight: 400;
+	font-size: 49px;
+}
+
+hr {
+	position: center;	
+	width: 50px;
+	border-color: #FD6E6E;
+}
+
+.ptext {
+	color: #3c3c3c;
+	font-family: 'Lora', serif;
+	font-weight:400;
+	font-size: 17.5px;
+	text-align: center;
+}
+
+.brodiecreativelogo {
+    background-image: url('../assets/brodiecreativelogoweb.png');
+    width: 90px;
+    height: 62px;
+}
+
+
