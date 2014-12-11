@@ -1,0 +1,395 @@
+/*		Default Layout: 992px.  */
+ul.nav li .hr-sub li a:hover {
+    color: #000;
+    text-decoration: none
+    }
+
+/*		Tablet Layout: 768px.*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+ul.nav li .hr-sub li a {
+  padding: 0 13px;
+}
+    .navbar-header {
+        margin: 0 auto;
+        width: 100%
+        }
+    header .navbar-brand {
+        display: inline-block;
+        left: 31%;
+        margin: 0;
+        position: relative;
+        width: 305px
+        }
+    header .nav.navbar-nav {
+        width: 100%
+        }
+    ul.nav li ul li a {
+        font-size: 14px;
+        padding: 0 14px
+        }
+    #intro {
+        padding: 80px 0
+        }
+    .intro_des {
+        font-size: 20px
+        }
+    p {
+        font-size: 22px;
+        line-height: 36px
+        }
+    .helpx {
+        display: block;
+        height: 500px;
+        position: relative;
+        width: 100%;
+        bottom: 0
+        }
+    .semslide_title.box_fix, .uxslide_title.box_fix, .devslide_title.box_fix {
+        margin-top: 80px
+        }
+    .helpxseo {
+        
+		float:none;
+        }
+    #devslide {
+        padding-bottom: 50px
+        }
+    .img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+        display: block;
+        height: auto;
+        max-width: 100%;
+        margin: 0 auto
+        }
+    .owl-prev {
+        left: 40%
+        }
+    #location {
+        padding: 100px 0
+        }
+    .btn-send:after {
+        display: none
+        }
+    .btn-send {
+        border: 1px solid #ed0950;
+        float: none
+        }
+    footer {
+        text-align: center
+        }
+    footer .col-sm-12 {
+        padding-bottom: 50px
+        }
+    #foo-nav .nav {
+        position: relative;
+        top: -50px
+        }
+		
+		
+	#brandingslide p, #socialslide p {
+  margin-top: 30px;
+}
+#analyticslide p  , #uxslide p ,#uislide p ,#devslide p ,#ulslide p{
+  margin-top: 50px;
+}
+#semslide p  , #seoslide p{
+  margin-top: 50px;
+}
+	#seoslide .more-wt {
+  margin-bottom: 50px;
+}
+#socialslide p {
+  margin-bottom: 50px;
+}	
+.btn-send{text-align:center;}
+		
+footer .col-md-4, footer .col-sm-4{
+margin-left:0px;
+}
+.foo-text-area {
+  max-width: 100%;
+}
+
+
+
+    }
+	
+	
+	
+	
+	
+/*		Mobile Layout: 320px.  */
+@media only screen and (max-width: 767px) {
+
+
+    /* sub menu*/
+    ul.nav li:hover > .hr-sub {
+        background: none repeat scroll 0 0 #FBFBFB;
+        display: block;
+        height: auto;
+        left: 0;
+        margin-top: 0;
+        padding-left: 0;
+        position: static;
+        text-align: left;
+        width: 100%
+        }
+    ul.nav li .hr-sub li {
+        display: block
+        }
+    ul.nav li .hr-sub li a {
+        color: #bcbec0;
+        padding: 0 30px;
+        margin-left: 20px
+        }
+    ul.nav li .hr-sub li a:hover {
+        color: #F20951;
+        text-decoration: none
+        }
+    header .nav.navbar-nav li:hover a:after {
+        display: none
+        }
+    .navbar-brand > img {
+        height: auto;
+margin-left: 20px;
+margin-top: 3px;
+width: 220px;
+        }
+    #intro {
+        padding: 35px 0
+        }
+    .logo {
+        width: 225px
+        }
+    h1, .h1 {
+        font-size: 36px
+        }
+    p {
+        font-size: 18px;
+        letter-spacing: 1px;
+        line-height: 24px
+        }
+    #CreativeSlide {
+        min-height: 0;
+        padding: 50px 0
+        }
+    #semslide .more-bl, #ulslide .more-bl {
+        background: none repeat scroll 0 0 #3c3c3c;
+        margin-bottom: 0
+        }
+    #each_clients p {
+        font-size: 16px;
+        letter-spacing: 0;
+        line-height: 25px
+        }
+    .border {
+        border-top: 1px solid #f20951;
+        display: block;
+        margin: 25px auto;
+        width: 115px
+        }
+    #semslide {
+        background: url(../img/sembg.png) repeat scroll 0 0 rgba(0, 0, 0, 0);
+        color: #d9d9d9;
+        font-family: "Oswald", sans-serif;
+        font-weight: 300;
+        letter-spacing: 3px;
+        padding: 50px 0
+        }
+    #intro, #location,#starthere  {
+        background: url(../img/brandingbg.png) repeat scroll 0 0 rgba(0, 0, 0, 0)
+        }
+    #CreativeSlide, #testimonials, #clients {
+        background: url(../img/pttwo.png) repeat scroll 0 0 rgba(0, 0, 0, 0)
+        }
+    #clients {
+        background: #850127
+        }
+    #ulslide, #devslide, #seoslide {
+        padding: 50px 0;
+        }
+    .more-wt, .more-bl {
+        min-width: 190px
+        }
+    .owl-prev {
+        left: 20%
+        }
+    .owl-theme .owl-controls {
+        margin-top: -20px;
+        text-align: center
+        }
+    #testimonials {
+        min-height: 0
+        }
+    #location {
+        padding: 50px 20px
+        }
+    #location > p {
+        font-size: 22px;
+        line-height: 30px;
+        margin-top: 25px
+        }
+    #location h2 {
+        font-size: 30px
+        }
+    #deperdmentslide h3 {
+        font-size: 26px;
+        margin-bottom: 0;
+        margin-top: 30px
+        }
+    #testimonials h2 {
+        font-size: 23px;
+        line-height: 34px
+        }
+    .col-md-4 > .list-unstyled li:first-child {
+        margin-bottom: 10px
+        }
+    .col-md-4 > .list-unstyled li:first-child {
+        font-size: 22px
+        }
+    .col-md-4 > .list-unstyled li {
+        font-size: 16px
+        }
+    .btn-send:after {
+        display: none
+        }
+    .btn-send {
+        border: 1px solid #f10850;
+        float: none;
+        font-size: 26px;
+        height: 50px;
+        min-width: 170px;
+        text-align: center;
+        line-height: 30px
+        }
+    footer {
+        text-align: center
+        }
+    .foo-border {
+        margin: 20px auto
+        }
+    .foo-social li a {
+        font-size: 17px
+        }
+
+   
+    footer .col-md-4 .img-responsive {
+        display: block;
+        max-width: 260px;
+        margin: 0 auto
+        }
+	.text-width {
+	display: block;
+	margin: 0 auto;
+	  width: 90%;
+	}	
+	.text-width-secend {
+	display: block;
+	margin: 0 auto;
+	 width: 90%;
+	}		
+	.box_angel {
+  margin-left: -45px;
+}
+#starthere .box_fix {
+  margin-left: -43px;
+}		
+#foo-nav li a {
+  font-size: 16px;
+}
+footer .navbar-header {
+display: block;
+margin: 0 auto;
+width: 250px;
+}
+.foo-logo-top {
+  display: block;
+  margin: 0 auto;
+}
+footer .col-md-4, footer .col-sm-4{
+margin-left:0px;
+}
+.foo-text-area {
+  max-width: 100%;
+}
+
+    }
+/*		Wide Mobile Layout: 480px.   */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .owl-prev {
+        left: 35%
+        }
+    #each_clients p {
+        line-height: 30px
+        }
+
+}
+		
+    
+	
+	
+	
+	
+/* iPads (landscape) ----------- */
+   @media only screen 
+   and (min-device-width : 768px) 
+   and (max-device-width : 1024px) 
+   and (orientation : landscape) {
+   
+   /* Styles */
+   .helpx {
+  bottom: -67px;
+  display: block;
+  height: 400px;
+  position: relative;
+  width: 500px;
+}
+.helpxseo {
+  height: 480px;
+  width: 470px;
+}
+.helpxul {
+  height: 450px;
+  width: 450px;
+}
+#ulslide, #devslide, #seoslide {
+  padding-bottom:50px;
+}
+ul.nav li .hr-sub li a {
+  padding: 0 25px;
+}
+
+
+
+}
+	
+	
+	
+	
+/* Test TAblate Landspace Query */
+	@media only screen and (min-width:1020px) and (max-width:1200px){
+	  /* Styles */
+   .helpx {
+  bottom: -67px;
+  display: block;
+  height: 400px;
+  position: relative;
+  width: 500px;
+}
+.helpxseo {
+  bottom: -50px;
+  position: relative;
+}
+.helpxul {
+  bottom: -50px;
+  position: relative;
+}
+#ulslide, #devslide, #seoslide {
+  padding-bottom:50px;
+}
+ul.nav li .hr-sub li a {
+  padding: 0 25px;
+}
+
+	
+	}
